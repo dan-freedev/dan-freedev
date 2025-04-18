@@ -1,7 +1,6 @@
 ## Hi, I'm Danny 👋
 
-I'm a **Software Developer** 
-Passionate about everything related to IT and technology, I'm always looking to grow, experiment, and learn new things.
+I'm a **Software Developer**, passionate about everything related to IT and technology, I'm always looking to grow, experiment, and learn new things.
 
 I enjoy working with languages like **C#**, **PHP**, and **Java** (still learning), and I have experience in **web development** (HTML, CSS, JavaScript, Angular, Laravel) as well as **databases** like **MariaDB** using phpMyAdmin.
 
